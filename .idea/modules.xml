@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/MyClass/MyClass.iml" filepath="$PROJECT_DIR$/MyClass/MyClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyExtends/MyExtends.iml" filepath="$PROJECT_DIR$/MyExtends/MyExtends.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyPermissionModifier/MyPermissionModifier.iml" filepath="$PROJECT_DIR$/MyPermissionModifier/MyPermissionModifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyPolymorphic/MyPolymorphic.iml" filepath="$PROJECT_DIR$/MyPolymorphic/MyPolymorphic.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyStateModifier/MyStateModifier.iml" filepath="$PROJECT_DIR$/MyStateModifier/MyStateModifier.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyStringBuilder/MyStringBuilder.iml" filepath="$PROJECT_DIR$/MyStringBuilder/MyStringBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/idea_demo/idea_demo.iml" filepath="$PROJECT_DIR$/idea_demo/idea_demo.iml" />
