@@ -3,6 +3,8 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
       <module name="MyPhone" target="17" />
+      <module name="MyPhone.main" target="17" />
+      <module name="MyPhone.test" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
