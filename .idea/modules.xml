@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/MyPolymorphic/MyPolymorphic.iml" filepath="$PROJECT_DIR$/MyPolymorphic/MyPolymorphic.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyStateModifier/MyStateModifier.iml" filepath="$PROJECT_DIR$/MyStateModifier/MyStateModifier.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyStringBuilder/MyStringBuilder.iml" filepath="$PROJECT_DIR$/MyStringBuilder/MyStringBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice01/Practice01.iml" filepath="$PROJECT_DIR$/Practice01/Practice01.iml" />
       <module fileurl="file://$PROJECT_DIR$/idea_test/idea_test.iml" filepath="$PROJECT_DIR$/idea_test/idea_test.iml" />
     </modules>
   </component>
