@@ -3,13 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyAbstract/MyAbstract.iml" filepath="$PROJECT_DIR$/MyAbstract/MyAbstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyAccessModifier/MyAccessModifier.iml" filepath="$PROJECT_DIR$/MyAccessModifier/MyAccessModifier.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyArrayList/MyArrayList.iml" filepath="$PROJECT_DIR$/MyArrayList/MyArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyClass/MyClass.iml" filepath="$PROJECT_DIR$/MyClass/MyClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyExtends/MyExtends.iml" filepath="$PROJECT_DIR$/MyExtends/MyExtends.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyInnerClass/MyInnerClass.iml" filepath="$PROJECT_DIR$/MyInnerClass/MyInnerClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyInteger/MyInteger.iml" filepath="$PROJECT_DIR$/MyInteger/MyInteger.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyInterface/MyInterface.iml" filepath="$PROJECT_DIR$/MyInterface/MyInterface.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyPermissionModifier/MyPermissionModifier.iml" filepath="$PROJECT_DIR$/MyPermissionModifier/MyPermissionModifier.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyPolymorphic/MyPolymorphic.iml" filepath="$PROJECT_DIR$/MyPolymorphic/MyPolymorphic.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyStateModifier/MyStateModifier.iml" filepath="$PROJECT_DIR$/MyStateModifier/MyStateModifier.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyStringBuilder/MyStringBuilder.iml" filepath="$PROJECT_DIR$/MyStringBuilder/MyStringBuilder.iml" />
