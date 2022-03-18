@@ -5,13 +5,13 @@ public class Phone {
     private int price;
 
     public Phone() {
-        this.brand = "哼，哼哼啊啊啊啊啊";
-        this.price = 114514;
+        setBrand("哼，哼哼啊啊啊啊啊");
+        setPrice(114514);
     }
 
     public Phone(String brand, int price) {
-        this.brand = brand;
-        this.price = price;
+        setBrand(brand);
+        setPrice(price);
     }
 
     public String getBrand() {
